@@ -1,25 +1,22 @@
-3ra-Preentrega
-******************************************
-Este proyecto es un Web ecommer, donde se utiliza HTML; CSS; JAVASCRIPT
-Se trata de una web que nos permine atravez de la seleccion de productos
-poder agregarlos al carrito de compras. Estos elementos quedan guardados en el local storage
-dando la posibilidad de borrarlos.
-Este proyecto se realizo nuevo.
+CARRITO COMPRAS GLOBOS AZ
 
-********************************************
+Proyecto final del curso de javascrip cursado en CoderHouse.
+**********************************************************************
+DESCRIPCION
 
-Los requisitos de esta pre entrega fueron:
+El objetivo de este proyecto es crear una app web de carrito de compras que permita a los usuarios agregar productos de una tienda de globos y poder ver el resumen de su compra.
+El proyecto utiliza objetos y arrays para almacenar la información de los productos y el carrito, y emplea funciones y condiciones para llevar a cabo las diferentes operaciones del carrito.
+Además, el proyecto utiliza la generación dinámica del DOM para mostrar los productos y la información del carrito en la interfaz de usuario. Se aplican eventos para permitir al usuario interactuar con el carrito
+La sintaxis avanzada se utiliza para mejorar la legibilidad y mantenibilidad del código, aplicando buenas prácticas de programación.
+El proyecto hace uso de las siguientes librerías de JavaScript:
 
-- Definir eventos a manejar y su función de respuesta: el manejo de DOM y eventos, deben permitir dar notificaciones al usuario, del resultado de las funciones de procesos (funcionalidades simuladas para el circuito escogido).
+sweetalert2: libreria de JS para incorporar alertas al usuario de modo mas estilizado y dinamico
+toastify: libreria de JS que incorpora al proyecto una notificacion dinamica
 
-- Modificar el DOM, ya sea para definir elementos al cargar la página o para realizar salidas de un procesamiento. Como lo vimos en las clases 10 y 11 donde interactuamos con el DOM para listar elementos o mostrar datos de un objeto (entidad de nuestro contexto) en alguna sección de nuestro HTML.
+Instalación
+ Descargar el repositorio desde la web de github y ejecutarlo desde VS.
+***********************************************************************
 
-- Deberán agregar y entregar uso de JSON y Storage: almacenar datos (mediante clave-valor) en el Storage y recuperarlos, permitirá un almacenamiento y gestión de la información más apropiada para conseguir el flujo de la simulación deseada (como lo vimos en la clase 11 cuando creamos carreras y le añadimos cátedras o cuando matriculamos estudiantes a una carrera).
-
-- En relación con la primera y segunda pre-entregas: ya no usamos alert() como salida y promt() como entrada, ahora modificamos el DOM para las salidas y capturamos los eventos del usuario sobre inputs y botones para las entradas.
-
-- No dejar código comentado, descartarlo.
-************************************************
-Contacto:
- 
-jonatanvaldez92@hotmail.com
+Licencia.
+Este proyecto fue realizado por Jonatan Valdez
+mail: jonatanvaldez92@hotmail.com
